@@ -1,4 +1,4 @@
-# ByteVerse Hackathon 2023
+#  Hackathon 2023
 
 Generate Tailwind UI components 
 
